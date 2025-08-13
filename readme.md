@@ -4,7 +4,7 @@
 - **📑기획서(피그마 슬라이드)**:[figma Slides](https://www.figma.com/slides/w2F4dHtW2v49EIQjht4CZz/%EB%B6%88%ED%83%9C%EC%9A%B0%EC%A1%B0_1%EC%B0%A8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_ppt?node-id=45-7&t=s2V9KC2eaol5uiNv-1)
 - **🎨디자인 시안(피그마)**: [figma 디자인](https://www.figma.com/design/mNXabWwo6hMDaMMnCI31Xf/1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%84%A4%EC%8A%AC%EB%A0%88%EB%94%94%EC%9E%90%EC%9D%B8?node-id=118-4&t=INpKFc1KKtJtadsd-1)
 - **🌐배포 URL**: [네슬레](https://timcho19.github.io/Renewal_project_Nestle/)
-- **🔗GitHub:** [CGV Renewal](https://github.com/Ha-im/Renewal_project_Cgv/tree/main_php)  
+- **🔗GitHub:** [네슬레](https://github.com/Ha-im/Renewal_project_Nestle)  
 
 ---
 
