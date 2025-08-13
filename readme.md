@@ -77,7 +77,7 @@ Renewal_project_Nestle/
 ## 5. 📍실행 방법
 ```bash
 # 1. 프로젝트 클론
-git clone https://github.com/timcho19/Renewal_project_Nestle.git
+git clone https://github.com/Ha-im/Renewal_project_Nestle
 
 # 2. 프로젝트 폴더로 이동
 cd Renewal_project_Nestle
